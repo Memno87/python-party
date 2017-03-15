@@ -7,6 +7,12 @@ h1 {
 body {
 	font-family: 'Roboto', sans-serif;
 	text-align:center;
+	background: url(/websiteapp01/static/kneeling_woman_alone.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
 }
 
 
@@ -37,3 +43,4 @@ body {
 	margin-left: 2%;
 	margin-right: 2%;
 }
+
