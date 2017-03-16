@@ -1,46 +1,39 @@
-h1 {
-	font-size: 70px;
-	font-family: 'Roboto', sans-serif;
-	text-align:center;
-}
-
 body {
 	font-family: 'Roboto', sans-serif;
-	text-align:center;
-	background: url(/websiteapp01/static/kneeling_woman_alone.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     background-color: #464646;
 }
 
 
-
-.heromod {
-	display: inline-block;
-	max-width: 40%;
-	float: left;
-	font-size: 70px;
-	color: white;
-	background-color: skyblue;
-	box-shadow: 5px 5px 5px #888;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-left: 2%;
-	margin-right: 2%;
-	margin-bottom: 20px;
+h1 {
+	font-size: 5em;
+	text-align:center;
 }
 
-.secmod {
-	display: inline-block;
-	max-width: 70%;
-	float; right;
-	background-color: white;
-	box-shadow: 5px 5px 5px #888;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	margin-left: 2%;
-	margin-right: 2%;
+h3 {
+    color: #D0011B;
+    font-weight: lighter;
 }
 
+
+.nav {
+    font-size: 2em;
+    
+}
+
+#intro {
+    background-color: white;
+    box-shadow: 0.2em 0.2em 0.5em grey;
+    max-width: 1200px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+    /*background: url(/websiteapp01/static/space.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;*\
